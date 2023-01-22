@@ -1,0 +1,15 @@
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\bin\Debug\net6.0\Trim.exe
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\bin\Debug\net6.0\Trim.deps.json
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\bin\Debug\net6.0\Trim.runtimeconfig.json
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\bin\Debug\net6.0\Trim.dll
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\bin\Debug\net6.0\Trim.pdb
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\obj\Debug\net6.0\Trim.csproj.AssemblyReference.cache
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\obj\Debug\net6.0\Trim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\obj\Debug\net6.0\Trim.AssemblyInfoInputs.cache
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\obj\Debug\net6.0\Trim.AssemblyInfo.cs
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\obj\Debug\net6.0\Trim.csproj.CoreCompileInputs.cache
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\obj\Debug\net6.0\Trim.dll
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\obj\Debug\net6.0\refint\Trim.dll
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\obj\Debug\net6.0\Trim.pdb
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\obj\Debug\net6.0\Trim.genruntimeconfig.cache
+C:\Users\divoc\OneDrive\Plocha\Trim\Trim\obj\Debug\net6.0\ref\Trim.dll
